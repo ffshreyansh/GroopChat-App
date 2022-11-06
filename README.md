@@ -1,16 +1,5 @@
 # chat_app
+Ongoing Porject - Using Firebase , CLoud FireStore, Hive and Flutter/Dart ofCourse
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/51352120/200180241-a6fcdc5c-4ba4-49e0-adf7-a4b3aa735f47.png)
+![0Chat](https://user-images.githubusercontent.com/51352120/200180249-327fcedb-013e-4689-aacc-6eac3f83473d.png)
